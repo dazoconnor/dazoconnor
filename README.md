@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Darren O'Connor, my friends call me Daz - @dazoconnor
+- 👋 Hi, I’m Darren O'Connor
 - 💼 I recruit Software Engineers into our clients teams at BioTalent. Working with Healthtech, Medical Devices and Biotech companies on the East Coast
 - 👀 I’m interested in following Software Engineers, reading your repositories, seeing what you like to do outside of work when it comes to coding
 - 🌱 I’m currently learning as much as I can about the different languages. Mainly C++, Python and Microsoft Tech - C# | .NET
